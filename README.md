@@ -16,9 +16,10 @@ This project presents an HR Analytics Dashboard developed using Power BI and Pos
 
 ## Tools Used
 
+* Excel
 * PostgreSQL
 * Power BI
-* SQL
+
 
 ## Business Insights
 
